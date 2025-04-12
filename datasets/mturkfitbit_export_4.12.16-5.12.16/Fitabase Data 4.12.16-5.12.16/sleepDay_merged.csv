@@ -1,4 +1,4 @@
-Id,SleepDay,TotalSleepRecords,TotalMinutesAsleep,TotalTimeInBed
+Id,Date,TotalSleepRecords,TotalMinutesAsleep,TotalTimeInBed
 1503960366,4/12/2016 12:00:00 AM,1,327,346
 1503960366,4/13/2016 12:00:00 AM,2,384,407
 1503960366,4/15/2016 12:00:00 AM,1,412,442
